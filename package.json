@@ -18,5 +18,11 @@
         "@rollup/rollup-linux-x64-gnu": "4.9.5",
         "@tailwindcss/oxide-linux-x64-gnu": "^4.0.1",
         "lightningcss-linux-x64-gnu": "^1.29.1"
-    }
+    },
+    "devDependencies": {
+        "semantic-release": "^24.2.7"
+    },
+    "release": {
+        "branches": ["main"]
+      }
 }
