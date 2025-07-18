@@ -6,7 +6,33 @@
         [
             "@semantic-release/commit-analyzer",
             {
-                "config": "./commit-analyzer.config.js"
+                "preset": "conventionalcommits",
+                "releaseRules": [
+                    {
+                        "type": "feat",
+                        "release": "minor"
+                    },
+                    {
+                        "type": "fix",
+                        "release": "patch"
+                    },
+                    {
+                        "type": "breaking",
+                        "release": "major"
+                    },
+                    {
+                        "type": "chore",
+                        "release": false
+                    }
+                ],
+                "parserOpts": {
+                    "headerPattern": "^(\\w*)(?:\\((.*)\\))?: (.*)$",
+                    "headerCorrespondence": [
+                        "type",
+                        "scope",
+                        "subject"
+                    ]
+                }
             }
         ],
         [
