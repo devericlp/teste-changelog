@@ -1,3 +1,5 @@
+## [1.3.1](https://github.com/devericlp/teste-changelog/compare/v1.3.0...v1.3.1) (2025-07-21)
+
 ## [1.3.0](https://github.com/devericlp/teste-changelog/compare/v1.2.0...v1.3.0) (2025-07-21)
 
 ### Features
