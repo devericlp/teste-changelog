@@ -7,9 +7,11 @@ use Livewire\Component;
 class Teste1 extends Component
 {
     public string $name;
-     public function mount(string $name):void
+    public string $email;
+     public function mount(string $name, string $email):void
     {
         $this->name = $name;
+        $this->email = $email;
     }
 
     public function render()

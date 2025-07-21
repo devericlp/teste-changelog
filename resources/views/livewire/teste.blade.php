@@ -3,5 +3,5 @@
        <p>{{ $student['name'] }}</p>
    @endforeach
 
-    <livewire:teste1 name="Eric" lazy />
+    <livewire:teste1 name="Eric" email="eric@email.com" lazy />
 </div>
