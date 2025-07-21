@@ -1,3 +1,9 @@
+## [1.5.0](https://github.com/devericlp/teste-changelog/compare/v1.4.0...v1.5.0) (2025-07-21)
+
+### Features
+
+* **dash:** add another paragrapher ([32a1eb6](https://github.com/devericlp/teste-changelog/commit/32a1eb6b49e236f0515778d860348b5e0a224a42))
+
 ## [1.4.0](https://github.com/devericlp/teste-changelog/compare/v1.3.1...v1.4.0) (2025-07-21)
 
 ### Features
