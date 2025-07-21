@@ -14,6 +14,7 @@ class Teste extends Component
         $this->students = Student::query()->get()->toArray();
     }
 
+
     public function render()
     {
         return view('livewire.teste');
