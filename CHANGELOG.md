@@ -1,3 +1,9 @@
+## [1.6.0](https://github.com/devericlp/teste-changelog/compare/v1.5.0...v1.6.0) (2025-07-21)
+
+### Features
+
+* **dash:** hope ([5bff904](https://github.com/devericlp/teste-changelog/commit/5bff9046afa923a4c39bc2a7f32e759398b7a885))
+
 ## [1.5.0](https://github.com/devericlp/teste-changelog/compare/v1.4.0...v1.5.0) (2025-07-21)
 
 ### Features
