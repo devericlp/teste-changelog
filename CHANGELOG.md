@@ -1,3 +1,10 @@
+## [1.2.0](https://github.com/devericlp/teste-changelog/compare/v1.1.0...v1.2.0) (2025-07-21)
+
+### Features
+
+* **OP#123:** add new dashboard ([9d23d3d](https://github.com/devericlp/teste-changelog/commit/9d23d3d97d84731477fc823dbeb3c1899c64c4b6)), closes [OP#123](https://github.com/devericlp/OP/issues/123)
+* **OP#123:** new library ([037c864](https://github.com/devericlp/teste-changelog/commit/037c8646308be0f0eca512d2a97f817304882d9a)), closes [OP#123](https://github.com/devericlp/OP/issues/123)
+
 # [1.1.0](https://github.com/devericlp/teste-changelog/compare/v1.0.0...v1.1.0) (2025-07-21)
 
 
