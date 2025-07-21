@@ -1,3 +1,9 @@
+## [1.3.0](https://github.com/devericlp/teste-changelog/compare/v1.2.0...v1.3.0) (2025-07-21)
+
+### Features
+
+* **op#1111:** change something ([be3cd39](https://github.com/devericlp/teste-changelog/commit/be3cd39b4a4c0e1c5b0a629218e01d40710b8f4e)), closes [op#1111](https://github.com/devericlp/op/issues/1111)
+
 ## [1.2.0](https://github.com/devericlp/teste-changelog/compare/v1.1.0...v1.2.0) (2025-07-21)
 
 ### Features
