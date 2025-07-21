@@ -16,5 +16,6 @@
         </div>
         <p>oi</p>
         <p>oi 1</p>
+        <p>oi 2</p>
     </div>
 </x-layouts.app>
