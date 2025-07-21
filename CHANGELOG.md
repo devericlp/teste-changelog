@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/devericlp/teste-changelog/compare/v1.0.0...v1.1.0) (2025-07-21)
+
+
+### Features
+
+* **Op123:** add new paragrafer ([e1bc606](https://github.com/devericlp/teste-changelog/commit/e1bc6063b417dea0ec48d4fb94c94c83f26c6a24))
+
 # 1.0.0 (2025-07-21)
 
 
