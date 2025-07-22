@@ -1,3 +1,18 @@
+# [1.10.0](https://github.com/devericlp/teste-changelog/compare/v1.9.0...v1.10.0) (2025-07-22)
+
+
+* Merge branch 'main' of https://github.com/devericlp/teste-changelog ([](https://github.com/devericlp/teste-changelog/commit/24246be006d7f4afa9cc3be6c42b164b5e62ffec))
+
+
+### chore
+
+* change preset ([](https://github.com/devericlp/teste-changelog/commit/2a625163f6098289aa65a37b7c45019b63fadb14))
+
+
+### feat
+
+* permite login com Google ([](https://github.com/devericlp/teste-changelog/commit/308d8f4523e51ad4c0581f1ac4268983329cab9e))
+
 ## [1.9.0](https://github.com/devericlp/teste-changelog/compare/v1.8.0...v1.9.0) (2025-07-22)
 
 ### feat
