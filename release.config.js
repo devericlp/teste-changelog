@@ -21,17 +21,7 @@ export default {
             {
                 preset: 'angular',
                 writerOpts: {
-                    // keep unformatted to preserve the format
-                    commitPartial: `
-{{type}}({{scope}}): {{subject}}
-{{#if body}}
-{{body}}
-{{/if}}
-
-{{#if footer}}
-{{footer}}
-{{/if}}
-`,
+                    commitPartial: readFileSync('./.changelog-templates/commit.hbs', 'utf8')
                 },
             }
         ],
