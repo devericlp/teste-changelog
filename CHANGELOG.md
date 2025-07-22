@@ -1,3 +1,13 @@
+## [1.9.0](https://github.com/devericlp/teste-changelog/compare/v1.8.0...v1.9.0) (2025-07-22)
+
+### feat
+
+* add p tag ([](https://github.com/devericlp/teste-changelog/commit/e0dd53e487315a53089fb1412c5dcbe396c7bdc0))
+
+### chore
+
+* new setting to include body message in change log ([](https://github.com/devericlp/teste-changelog/commit/a1fa1943c8ddd10155b652ada4a63c17c0121dc9))
+
 ## [1.8.0](https://github.com/devericlp/teste-changelog/compare/v1.7.0...v1.8.0) (2025-07-22)
 
 ### Features
