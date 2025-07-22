@@ -1,3 +1,38 @@
+# [1.14.0](https://github.com/devericlp/teste-changelog/compare/v1.13.1...v1.14.0) (2025-07-22)
+
+
+(): Merge pull request #3 from devericlp/develop
+
+  Develop
+
+
+
+### feat
+
+feat(dash): add new dashboard
+
+  - created new file
+- added layout
+BREAKING CHANGE
+
+
+
+### fix
+
+fix(dash): fixed layout
+
+  - removed paragraphs
+- changed rounded from xl to sm
+- changed gap elements from 4 to 5
+
+
+
+### Refactor
+
+Refactor(dash): refactor the order number
+
+  - changed the numbers
+
 ## [1.13.1](https://github.com/devericlp/teste-changelog/compare/v1.13.0...v1.13.1) (2025-07-22)
 
 
