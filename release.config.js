@@ -23,7 +23,7 @@ export default {
                         // mantém o body
                         return {
                             ...commit,
-                            body: commit.body,
+                            body: commit.body || '',
                         };
                     },
                 },
