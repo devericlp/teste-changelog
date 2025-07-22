@@ -7,6 +7,7 @@ export default {
                 preset: 'conventionalcommits',
                 releaseRules: [
                     {type: 'refactor', release: 'patch'},
+                    {type: 'chore', release: false},
                 ],
                 parserOpts: {
                     noteKeywords: ['BREAKING CHANGE', 'BREAKING CHANGES'],
