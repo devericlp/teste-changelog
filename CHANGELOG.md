@@ -1,3 +1,9 @@
+## [1.7.0](https://github.com/devericlp/teste-changelog/compare/v1.6.0...v1.7.0) (2025-07-22)
+
+### Features
+
+* **dash:** new p tag ([a8649b0](https://github.com/devericlp/teste-changelog/commit/a8649b0561334eb9a5fb3c2ea73d0bdbb21f3829))
+
 ## [1.1.0](https://github.com/devericlp/teste-changelog/compare/v1.0.0...v1.1.0) (2025-07-22)
 
 ### Features
