@@ -23,11 +23,11 @@ export default {
                 writerOpts: {
                     commitPartial: readFileSync('./.changelog-templates/commit.hbs', 'utf8'),
                     transform: (commit, context) => {
-                    if (commit.type === 'refactor') {
-                      commit.type = 'Refatoração';
+                        return {
+                            ...commit,
+                            type: commit.type === 'refactor' ? 'Refactor' : commit.type,
+                        };
                     }
-                    return commit;
-                  },
                 },
             }
         ],
