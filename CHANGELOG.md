@@ -1,3 +1,17 @@
+# [3.0.0](https://github.com/devericlp/teste-changelog/compare/v2.0.0...v3.0.0) (2025-07-22)
+
+
+(): Merge pull request #5 from devericlp/develop
+
+
+
+
+### Refactor
+
+Refactor(release): new settings
+
+  - change type refactor to major release
+
 # [2.0.0](https://github.com/devericlp/teste-changelog/compare/v1.14.0...v2.0.0) (2025-07-22)
 
 
