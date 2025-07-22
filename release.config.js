@@ -16,7 +16,16 @@ export default {
         [
             '@semantic-release/release-notes-generator',
             {
-                preset: 'conventionalcommits'
+                preset: 'conventionalcommits',
+                writerOpts: {
+                    transform: (commit, context) => {
+                        // mantém o body
+                        return {
+                            ...commit,
+                            body: commit.body,
+                        };
+                    },
+                },
             }
         ],
         [
