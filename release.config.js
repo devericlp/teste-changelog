@@ -4,7 +4,7 @@ export default {
         [
             '@semantic-release/commit-analyzer',
             {
-                preset: 'conventionalcommits',
+                preset: 'angular',
                 releaseRules: [
                     {type: 'refactor', release: 'patch'},
                     {type: 'chore', release: false},
@@ -17,7 +17,7 @@ export default {
         [
             '@semantic-release/release-notes-generator',
             {
-                preset: 'conventionalcommits',
+                preset: 'angular',
                 writerOpts: {
                     transform: (commit, context) => {
                         // mantém o body
