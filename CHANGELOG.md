@@ -1,3 +1,20 @@
+# [1.11.0](https://github.com/devericlp/teste-changelog/compare/v1.10.0...v1.11.0) (2025-07-22)
+
+
+### Features
+
+* **dashboard:** adiciona gráfico de vendas (406c1dd51aae1bddcdd2ff456598355ffa38047a)
+  Renderiza gráfico com dados mensais usando Chart.js.
+Integra com o endpoint /api/sales.
+* **dash:** nem test (6c53fba780b9239e09a5cf418672d1af17791d25)
+  <body>
+
+<footer>
+* **dash:** new test again (d3ea7165d936a3882f2161ab0596e2bd2a0ea8e0)
+  - body here
+
+- header here
+
 # [1.10.0](https://github.com/devericlp/teste-changelog/compare/v1.9.0...v1.10.0) (2025-07-22)
 
 
