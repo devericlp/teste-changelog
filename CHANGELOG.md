@@ -1,3 +1,5 @@
+## [1.12.1](https://github.com/devericlp/teste-changelog/compare/v1.12.0...v1.12.1) (2025-07-22)
+
 # [1.12.0](https://github.com/devericlp/teste-changelog/compare/v1.11.0...v1.12.0) (2025-07-22)
 
 
