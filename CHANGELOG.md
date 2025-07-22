@@ -1,3 +1,20 @@
+## [1.13.1](https://github.com/devericlp/teste-changelog/compare/v1.13.0...v1.13.1) (2025-07-22)
+
+
+### Refactor
+
+Refactor(dash): added new config
+
+  - added new config in release
+
+Refactor(dash): refactor of the number in the first paragraph
+
+  - changed the number
+
+Refactor(release): refactor config
+
+  - test
+
 # [1.13.0](https://github.com/devericlp/teste-changelog/compare/v1.12.1...v1.13.0) (2025-07-22)
 
 
