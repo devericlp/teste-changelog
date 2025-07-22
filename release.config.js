@@ -8,7 +8,7 @@ export default {
             {
                 preset: 'angular',
                 releaseRules: [
-                    {type: 'refactor', release: 'patch'},
+                    {type: 'refactor', release: 'major'},
                     {type: 'chore', release: false},
                 ],
                 parserOpts: {
