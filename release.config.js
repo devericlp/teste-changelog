@@ -1,3 +1,5 @@
+import {readFileSync} from 'fs';
+
 export default {
     branches: ['main'],
     plugins: [
@@ -19,13 +21,7 @@ export default {
             {
                 preset: 'angular',
                 writerOpts: {
-                    transform: (commit, context) => {
-                        // mantém o body
-                        return {
-                            ...commit,
-                            body: commit.body || '',
-                        };
-                    },
+                    commitPartial: readFileSync('./.changelog-templates/commit.hbs', 'utf8'),
                 },
             }
         ],
