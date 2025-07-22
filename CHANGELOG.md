@@ -1,3 +1,21 @@
+# [1.13.0](https://github.com/devericlp/teste-changelog/compare/v1.12.1...v1.13.0) (2025-07-22)
+
+
+### Bug Fixes
+
+Bug Fixes(app): corrige erro de validação
+
+  Ajuste no schema para campo email.
+
+
+
+### Features
+
+Features(dash): added p again again
+
+  - added hbs file
+- imported hbs file in release.config
+
 ## [1.12.1](https://github.com/devericlp/teste-changelog/compare/v1.12.0...v1.12.1) (2025-07-22)
 
 # [1.12.0](https://github.com/devericlp/teste-changelog/compare/v1.11.0...v1.12.0) (2025-07-22)
