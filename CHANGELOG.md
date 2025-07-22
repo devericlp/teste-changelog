@@ -1,3 +1,18 @@
+# [1.12.0](https://github.com/devericlp/teste-changelog/compare/v1.11.0...v1.12.0) (2025-07-22)
+
+
+### Features
+
+Features(dash): new p tag again
+
+  - added thing 1
+- added thing 2
+- added thing 3
+- refatored thing 4
+- fixed thing 5
+
+- obs this is a footer
+
 # [1.11.0](https://github.com/devericlp/teste-changelog/compare/v1.10.0...v1.11.0) (2025-07-22)
 
 
