@@ -1,3 +1,23 @@
+# [2.0.0](https://github.com/devericlp/teste-changelog/compare/v1.14.0...v2.0.0) (2025-07-22)
+
+
+(): Merge pull request #4 from devericlp/develop
+
+
+
+
+### feat
+
+feat(dash): removed element
+
+
+BREAKING CHANGE: elemento removido
+
+
+### BREAKING CHANGE
+
+* **dash:** elemento removido
+
 # [1.14.0](https://github.com/devericlp/teste-changelog/compare/v1.13.1...v1.14.0) (2025-07-22)
 
 
