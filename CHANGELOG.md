@@ -1,3 +1,9 @@
+## [1.8.0](https://github.com/devericlp/teste-changelog/compare/v1.7.0...v1.8.0) (2025-07-22)
+
+### Features
+
+* adiciona login ([0214475](https://github.com/devericlp/teste-changelog/commit/0214475efb268c0546802549626283a509921ed9))
+
 ## [1.7.0](https://github.com/devericlp/teste-changelog/compare/v1.6.0...v1.7.0) (2025-07-22)
 
 ### Features
