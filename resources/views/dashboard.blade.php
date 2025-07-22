@@ -15,7 +15,7 @@
             <x-placeholder-pattern class="absolute inset-0 size-full stroke-gray-900/20 dark:stroke-neutral-100/20" />
         </div>
         <p>oi</p>
-        <p>oi 2</p>
+        <p>oi 1</p>
         <p>oi 4</p>
         <p>oi 5</p>
         <p>oi 6</p>
