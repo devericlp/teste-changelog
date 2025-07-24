@@ -1,3 +1,19 @@
+# [3.5.0](https://github.com/devericlp/teste-changelog/compare/v3.4.1...v3.5.0) (2025-07-24)
+
+
+### feat
+
+feat(): novo p
+
+
+
+
+### MR
+
+MR(teste): o titulo é aqui?
+
+  develop into main
+
 ## [3.4.1](https://github.com/devericlp/teste-changelog/compare/v3.4.0...v3.4.1) (2025-07-24)
 
 
