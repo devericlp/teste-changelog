@@ -1,3 +1,16 @@
+## [3.5.1](https://github.com/devericlp/teste-changelog/compare/v3.5.0...v3.5.1) (2025-07-24)
+
+
+(): Merge pull request #11 from devericlp/develop
+
+  develop into main
+
+
+
+### Refactor
+
+Refactor(): changed number
+
 # [3.5.0](https://github.com/devericlp/teste-changelog/compare/v3.4.1...v3.5.0) (2025-07-24)
 
 
