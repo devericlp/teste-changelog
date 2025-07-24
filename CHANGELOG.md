@@ -1,3 +1,22 @@
+# [3.2.0](https://github.com/devericlp/teste-changelog/compare/v3.1.0...v3.2.0) (2025-07-24)
+
+
+(): teste de titulo
+
+
+
+
+### chore
+
+chore(): ajusts
+
+
+
+
+### feat
+
+feat(): new title
+
 # [3.1.0](https://github.com/devericlp/teste-changelog/compare/v3.0.1...v3.1.0) (2025-07-24)
 
 
