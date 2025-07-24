@@ -1,3 +1,15 @@
+# [3.4.0](https://github.com/devericlp/teste-changelog/compare/v3.3.0...v3.4.0) (2025-07-24)
+
+
+### feat
+
+feat(dash): novo p tag
+
+
+feat(login): adiciona suporte a token JWT
+
+  feat(dash): novo p tag
+
 # [3.3.0](https://github.com/devericlp/teste-changelog/compare/v3.2.0...v3.3.0) (2025-07-24)
 
 
