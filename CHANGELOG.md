@@ -1,3 +1,10 @@
+## [3.4.1](https://github.com/devericlp/teste-changelog/compare/v3.4.0...v3.4.1) (2025-07-24)
+
+
+### fix
+
+fix(layout): changed page title
+
 # [3.4.0](https://github.com/devericlp/teste-changelog/compare/v3.3.0...v3.4.0) (2025-07-24)
 
 
