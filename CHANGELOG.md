@@ -1,3 +1,25 @@
+## [3.0.1](https://github.com/devericlp/teste-changelog/compare/v3.0.0...v3.0.1) (2025-07-24)
+
+
+(): Merge pull request #6 from devericlp/develop
+
+  teste de onde aparece isso
+
+
+
+### chore
+
+chore(): cahnge release of type refactor
+
+
+
+
+### fix
+
+fix(): link favicon
+
+  - removed code
+
 # [3.0.0](https://github.com/devericlp/teste-changelog/compare/v2.0.0...v3.0.0) (2025-07-22)
 
 
