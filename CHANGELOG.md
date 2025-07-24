@@ -1,3 +1,18 @@
+# [3.1.0](https://github.com/devericlp/teste-changelog/compare/v3.0.1...v3.1.0) (2025-07-24)
+
+
+(): Merge pull request #7 from devericlp/develop
+
+
+
+
+### feat
+
+feat(novo dash): novo dashboard
+
+  - adicionar novo arquivo
+- implementado titulo no novo dash
+
 ## [3.0.1](https://github.com/devericlp/teste-changelog/compare/v3.0.0...v3.0.1) (2025-07-24)
 
 
