@@ -20,6 +20,6 @@
         <p>oi 3</p>
         <p>oi 4</p>
         <p>oi 5</p>
-        <p>oi 6</p>
+        <p>oi 6.5</p>
     </div>
 </x-layouts.app>
