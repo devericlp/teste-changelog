@@ -21,6 +21,6 @@
         <p>oi 4</p>
         <p>oi 5</p>
         <p>oi 6.6</p>
-        <p>oi 6.7</p>
+        <p>oi 6.8</p>
     </div>
 </x-layouts.app>
