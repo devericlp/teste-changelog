@@ -1,3 +1,13 @@
+# [3.12.0](https://github.com/devericlp/teste-changelog/compare/v3.11.1...v3.12.0) (2025-07-25)
+
+
+### feat
+
+feat(dash): new dashboard
+
+  - added new file
+-implemented layout dash
+
 ## [3.11.1](https://github.com/devericlp/teste-changelog/compare/v3.11.0...v3.11.1) (2025-07-25)
 
 
