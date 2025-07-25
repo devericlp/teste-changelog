@@ -1,3 +1,18 @@
+## [3.5.2](https://github.com/devericlp/teste-changelog/compare/v3.5.1...v3.5.2) (2025-07-25)
+
+
+(): Merge pull request #12 from devericlp/develop
+
+  refactor(dashboard): changed p title
+
+
+
+### Refactor
+
+Refactor(dashboard): changed p title
+
+  - changed from p 6.5 to p 6.6
+
 ## [3.5.1](https://github.com/devericlp/teste-changelog/compare/v3.5.0...v3.5.1) (2025-07-24)
 
 
