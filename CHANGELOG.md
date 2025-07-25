@@ -1,3 +1,18 @@
+# [3.11.0](https://github.com/devericlp/teste-changelog/compare/v3.10.0...v3.11.0) (2025-07-25)
+
+
+### chore
+
+chore(): changed release  settings
+
+
+
+
+
+### feat
+
+feat(): segundo teste
+
 # [3.10.0](https://github.com/devericlp/teste-changelog/compare/v3.9.1...v3.10.0) (2025-07-25)
 
 
