@@ -1,3 +1,29 @@
+## [3.9.1](https://github.com/devericlp/teste-changelog/compare/v3.9.0...v3.9.1) (2025-07-25)
+
+
+(): Merge pull request #19 from devericlp/develop
+
+
+
+(): Merge pull request #20 from devericlp/develop
+
+  develop into main
+
+
+
+
+### Refactor
+
+Refactor(): novo titulo
+
+
+
+
+
+### refator
+
+refator(): novo titulo
+
 # [3.9.0](https://github.com/devericlp/teste-changelog/compare/v3.8.0...v3.9.0) (2025-07-25)
 
 
