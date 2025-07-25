@@ -20,6 +20,9 @@ export default {
             '@semantic-release/release-notes-generator',
             {
                 preset: 'angular',
+                parserOpts: {
+                    mergePattern: null,
+                },
                 writerOpts: {
                     commitPartial: readFileSync('./.changelog-templates/commit.hbs', 'utf8'),
                     transform: (commit, context) => {
