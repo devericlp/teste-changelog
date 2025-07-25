@@ -1,3 +1,10 @@
+## [3.11.1](https://github.com/devericlp/teste-changelog/compare/v3.11.0...v3.11.1) (2025-07-25)
+
+
+### Refactor
+
+Refactor(): changed title
+
 # [3.11.0](https://github.com/devericlp/teste-changelog/compare/v3.10.0...v3.11.0) (2025-07-25)
 
 
