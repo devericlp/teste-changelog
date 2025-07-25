@@ -1,3 +1,24 @@
+# [3.7.0](https://github.com/devericlp/teste-changelog/compare/v3.6.1...v3.7.0) (2025-07-25)
+
+
+### chore
+
+chore(): adding logs
+
+
+
+
+### feat
+
+feat(): novo titulo
+
+
+
+
+### fix
+
+fix(): error config
+
 ## [3.6.1](https://github.com/devericlp/teste-changelog/compare/v3.6.0...v3.6.1) (2025-07-25)
 
 
