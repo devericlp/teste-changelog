@@ -24,6 +24,12 @@ export default {
                     commitPartial: readFileSync('./.changelog-templates/commit.hbs', 'utf8'),
                     transform: (commit, context) => {
 
+                        const allowed_types = ['feat', 'fix', 'refactor'];
+
+                        if (!allowed_types.includes(commit.type?.toLowerCase())) {
+                          return;
+                        }
+
                         const is_merge_commit =
                             commit.subject &&
                             (commit.subject.startsWith('Merge pull request') ||
