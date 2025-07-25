@@ -1,3 +1,40 @@
+# [3.9.0](https://github.com/devericlp/teste-changelog/compare/v3.8.0...v3.9.0) (2025-07-25)
+
+
+(): Merge branch 'main' of https://github.com/devericlp/teste-changelog
+
+
+
+(): Merge pull request #18 from devericlp/develop
+
+  develop into main
+
+
+
+
+### chore
+
+chore(): fixed template
+
+
+
+
+
+### feat
+
+feat(): new title
+
+  - added title
+
+
+
+
+### Refactor
+
+Refactor(): change title
+
+  - changed title
+
 # [3.8.0](https://github.com/devericlp/teste-changelog/compare/v3.7.1...v3.8.0) (2025-07-25)
 
 
