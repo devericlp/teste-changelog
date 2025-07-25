@@ -23,6 +23,9 @@ export default {
                 writerOpts: {
                     commitPartial: readFileSync('./.changelog-templates/commit.hbs', 'utf8'),
                     transform: (commit, context) => {
+                        if (commit.merge) {
+                            return null;
+                        }
                         return {
                             ...commit,
                             type: commit.type === 'refactor' ? 'Refactor' : commit.type,
