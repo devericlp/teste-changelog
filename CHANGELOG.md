@@ -1,3 +1,27 @@
+## [3.6.1](https://github.com/devericlp/teste-changelog/compare/v3.6.0...v3.6.1) (2025-07-25)
+
+
+(): Merge pull request #14 from devericlp/develop
+
+  chore: test config semantic-realese
+
+(): Merge pull request #15 from devericlp/develop
+
+  fix: number of last p
+
+
+
+### chore
+
+chore(): test config semantic-realese
+
+
+
+
+### fix
+
+fix(): number of last p
+
 # [3.6.0](https://github.com/devericlp/teste-changelog/compare/v3.5.2...v3.6.0) (2025-07-25)
 
 
