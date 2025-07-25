@@ -1,3 +1,19 @@
+## [3.7.1](https://github.com/devericlp/teste-changelog/compare/v3.7.0...v3.7.1) (2025-07-25)
+
+
+Merge branch 'main' of https://github.com/devericlp/teste-changelog
+Merge pull request #16 from devericlp/develop
+
+
+### chore
+
+fix layout commit message
+
+
+### Refactor
+
+removed p tags
+
 # [3.7.0](https://github.com/devericlp/teste-changelog/compare/v3.6.1...v3.7.0) (2025-07-25)
 
 
