@@ -20,12 +20,20 @@ export default {
             '@semantic-release/release-notes-generator',
             {
                 preset: 'angular',
-                parserOpts: {
-                    mergePattern: null,
-                },
                 writerOpts: {
                     commitPartial: readFileSync('./.changelog-templates/commit.hbs', 'utf8'),
                     transform: (commit, context) => {
+
+                        const is_merge_commit =
+                            commit.subject &&
+                            (commit.subject.startsWith('Merge pull request') ||
+                                commit.subject.startsWith('Merge branch'));
+
+                        if (is_merge_commit) {
+                            return;
+                        }
+
+
                         return {
                             ...commit,
                             type: commit.type === 'refactor' ? 'Refactor' : commit.type,
