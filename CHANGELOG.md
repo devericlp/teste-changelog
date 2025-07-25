@@ -1,3 +1,18 @@
+# [3.8.0](https://github.com/devericlp/teste-changelog/compare/v3.7.1...v3.8.0) (2025-07-25)
+
+
+
+
+### chore
+
+
+
+### feat
+
+
+
+### Refactor
+
 ## [3.7.1](https://github.com/devericlp/teste-changelog/compare/v3.7.0...v3.7.1) (2025-07-25)
 
 
