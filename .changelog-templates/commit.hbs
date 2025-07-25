@@ -1,3 +1,4 @@
+{{#if pr}}
 {{type}}({{scope}}): {{subject}}
 
 {{#if body}}
@@ -6,4 +7,7 @@
 
 {{#if footer}}
 {{footer}}
+{{/if}}
+{{else}}
+{{subject}}
 {{/if}}
