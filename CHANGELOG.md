@@ -1,3 +1,13 @@
+# [3.6.0](https://github.com/devericlp/teste-changelog/compare/v3.5.2...v3.6.0) (2025-07-25)
+
+
+### feat
+
+feat(dashboard): new p
+
+
+feat(): new paragraph
+
 ## [3.5.2](https://github.com/devericlp/teste-changelog/compare/v3.5.1...v3.5.2) (2025-07-25)
 
 
